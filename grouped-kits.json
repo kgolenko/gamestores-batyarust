@@ -1,0 +1,1229 @@
+{
+  "servers": [
+    {
+      "id": "server_one",
+      "name": "BATYA RUST #1 | SemiClassic",
+      "tabs": [
+        {
+          "id": "tab1",
+          "name": "Стартовые",
+          "groups": [
+            {
+              "prefix": "start",
+              "displayName": "Стартовые",
+              "kits": [
+                {
+                  "key": "",
+                  "name": "start.all",
+                  "cooldown": 0,
+                  "items": [
+                    {
+                      "name": "rock",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/rock.png"
+                    },
+                    {
+                      "name": "torch",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/torch.png"
+                    },
+                    {
+                      "name": "cakefiveyear",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/cakefiveyear.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "tab2",
+          "name": "Браток",
+          "groups": [
+            {
+              "prefix": "newbratok",
+              "displayName": "Newbratok",
+              "kits": [
+                {
+                  "key": "newbratok.hazmat",
+                  "name": "Браток Хазмат",
+                  "cooldown": 28800,
+                  "items": [
+                    {
+                      "name": "hazmatsuit",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newbratok.constructions",
+                  "name": "Браток Дом",
+                  "cooldown": 172800,
+                  "items": [
+                    {
+                      "name": "workbench1",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/workbench1.png"
+                    },
+                    {
+                      "name": "storage_barrel_b",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/storage_barrel_b.png"
+                    },
+                    {
+                      "name": "box.repair.bench",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/box.repair.bench.png"
+                    },
+                    {
+                      "name": "research.table",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/research.table.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newbratok.weapons",
+                  "name": "Браток Оружие",
+                  "cooldown": 86400,
+                  "items": [
+                    {
+                      "name": "boots.frog",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/boots.frog.png"
+                    },
+                    {
+                      "name": "hat.wellipets",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/hat.wellipets.png"
+                    },
+                    {
+                      "name": "wood.armor.jacket",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/wood.armor.jacket.png"
+                    },
+                    {
+                      "name": "shirt.tanktop",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/shirt.tanktop.png"
+                    },
+                    {
+                      "name": "burlap.gloves.new",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.gloves.new.png"
+                    },
+                    {
+                      "name": "wood.armor.pants",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/wood.armor.pants.png"
+                    },
+                    {
+                      "name": "pants.shorts",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/pants.shorts.png"
+                    },
+                    {
+                      "name": "ammo.pistol",
+                      "count": 128,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.pistol.png"
+                    },
+                    {
+                      "name": "pistol.semiauto",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.semiauto.png"
+                    },
+                    {
+                      "name": "pickaxe",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/pickaxe.png"
+                    },
+                    {
+                      "name": "hatchet",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/hatchet.png"
+                    },
+                    {
+                      "name": "pistol.semiauto",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.semiauto.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newbratok.res",
+                  "name": "Браток Ресурсы",
+                  "cooldown": 86400,
+                  "items": [
+                    {
+                      "name": "sheetmetal",
+                      "count": 2,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sheetmetal.png"
+                    },
+                    {
+                      "name": "smgbody",
+                      "count": 2,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/smgbody.png"
+                    },
+                    {
+                      "name": "semibody",
+                      "count": 2,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/semibody.png"
+                    },
+                    {
+                      "name": "metalspring",
+                      "count": 4,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalspring.png"
+                    },
+                    {
+                      "name": "metalpipe",
+                      "count": 4,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalpipe.png"
+                    },
+                    {
+                      "name": "propanetank",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/propanetank.png"
+                    },
+                    {
+                      "name": "sewingkit",
+                      "count": 6,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sewingkit.png"
+                    },
+                    {
+                      "name": "tarp",
+                      "count": 2,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/tarp.png"
+                    },
+                    {
+                      "name": "rope",
+                      "count": 6,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/rope.png"
+                    },
+                    {
+                      "name": "gears",
+                      "count": 4,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/gears.png"
+                    },
+                    {
+                      "name": "roadsigns",
+                      "count": 4,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/roadsigns.png"
+                    },
+                    {
+                      "name": "metalblade",
+                      "count": 4,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalblade.png"
+                    },
+                    {
+                      "name": "stones",
+                      "count": 4000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/stones.png"
+                    },
+                    {
+                      "name": "wood",
+                      "count": 2000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/wood.png"
+                    },
+                    {
+                      "name": "metal.fragments",
+                      "count": 1000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metal.fragments.png"
+                    },
+                    {
+                      "name": "metal.refined",
+                      "count": 30,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metal.refined.png"
+                    },
+                    {
+                      "name": "cloth",
+                      "count": 250,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/cloth.png"
+                    },
+                    {
+                      "name": "lowgradefuel",
+                      "count": 75,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/lowgradefuel.png"
+                    },
+                    {
+                      "name": "gunpowder",
+                      "count": 500,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/gunpowder.png"
+                    },
+                    {
+                      "name": "charcoal",
+                      "count": 1000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/charcoal.png"
+                    },
+                    {
+                      "name": "sulfur",
+                      "count": 500,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sulfur.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "tab3",
+          "name": "Мафия",
+          "groups": [
+            {
+              "prefix": "newmafia",
+              "displayName": "Newmafia",
+              "kits": [
+                {
+                  "key": "newmafia.constructions",
+                  "name": "Мафия Дом",
+                  "cooldown": 172800,
+                  "items": [
+                    {
+                      "name": "workbench1",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/workbench1.png"
+                    },
+                    {
+                      "name": "small.oil.refinery",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/small.oil.refinery.png"
+                    },
+                    {
+                      "name": "cookingworkbench",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/cookingworkbench.png"
+                    },
+                    {
+                      "name": "coffin.storage",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/coffin.storage.png"
+                    },
+                    {
+                      "name": "basicblueprintfragment",
+                      "count": 3,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/basicblueprintfragment.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newmafia.attire",
+                  "name": "Мафия Броня",
+                  "cooldown": 28800,
+                  "items": [
+                    {
+                      "name": "hat.wolf",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/hat.wolf.png"
+                    },
+                    {
+                      "name": "hazmatsuit",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit.png"
+                    },
+                    {
+                      "name": "jacket",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/jacket.png"
+                    },
+                    {
+                      "name": "mask.bandana",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/mask.bandana.png"
+                    },
+                    {
+                      "name": "attire.hide.boots",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.boots.png"
+                    },
+                    {
+                      "name": "pants",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/pants.png"
+                    },
+                    {
+                      "name": "woodarmor.gloves",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/woodarmor.gloves.png"
+                    },
+                    {
+                      "name": "roadsign.kilt",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/roadsign.kilt.png"
+                    },
+                    {
+                      "name": "tshirt.long",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/tshirt.long.png"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prefix": "nwemafia",
+              "displayName": "Nwemafia",
+              "kits": [
+                {
+                  "key": "nwemafia.res",
+                  "name": "Мафия Ресурсы",
+                  "cooldown": 86400,
+                  "items": [
+                    {
+                      "name": "smgbody",
+                      "count": 4,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/smgbody.png"
+                    },
+                    {
+                      "name": "tarp",
+                      "count": 6,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/tarp.png"
+                    },
+                    {
+                      "name": "semibody",
+                      "count": 3,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/semibody.png"
+                    },
+                    {
+                      "name": "riflebody",
+                      "count": 2,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/riflebody.png"
+                    },
+                    {
+                      "name": "rope",
+                      "count": 10,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/rope.png"
+                    },
+                    {
+                      "name": "sheetmetal",
+                      "count": 4,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sheetmetal.png"
+                    },
+                    {
+                      "name": "metalpipe",
+                      "count": 8,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalpipe.png"
+                    },
+                    {
+                      "name": "metalspring",
+                      "count": 6,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalspring.png"
+                    },
+                    {
+                      "name": "sewingkit",
+                      "count": 10,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sewingkit.png"
+                    },
+                    {
+                      "name": "gears",
+                      "count": 6,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/gears.png"
+                    },
+                    {
+                      "name": "roadsigns",
+                      "count": 8,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/roadsigns.png"
+                    },
+                    {
+                      "name": "metalblade",
+                      "count": 8,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalblade.png"
+                    },
+                    {
+                      "name": "charcoal",
+                      "count": 2000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/charcoal.png"
+                    },
+                    {
+                      "name": "lowgradefuel",
+                      "count": 150,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/lowgradefuel.png"
+                    },
+                    {
+                      "name": "cloth",
+                      "count": 500,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/cloth.png"
+                    },
+                    {
+                      "name": "sulfur",
+                      "count": 500,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sulfur.png"
+                    },
+                    {
+                      "name": "metal.fragments",
+                      "count": 2000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metal.fragments.png"
+                    },
+                    {
+                      "name": "wood",
+                      "count": 4000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/wood.png"
+                    },
+                    {
+                      "name": "propanetank",
+                      "count": 2,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/propanetank.png"
+                    },
+                    {
+                      "name": "gunpowder",
+                      "count": 500,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/gunpowder.png"
+                    },
+                    {
+                      "name": "stones",
+                      "count": 6000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/stones.png"
+                    },
+                    {
+                      "name": "metal.refined",
+                      "count": 50,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metal.refined.png"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "prefix": "mafia",
+              "displayName": "Mafia",
+              "kits": [
+                {
+                  "key": "mafia.gun",
+                  "name": "Мафия Оружие",
+                  "cooldown": 28800,
+                  "items": [
+                    {
+                      "name": "ammo.pistol",
+                      "count": 128,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.pistol.png"
+                    },
+                    {
+                      "name": "ammo.rifle",
+                      "count": 128,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rifle.png"
+                    },
+                    {
+                      "name": "weapon.mod.flashlight",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.flashlight.png"
+                    },
+                    {
+                      "name": "weapon.mod.holosight",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.holosight.png"
+                    },
+                    {
+                      "name": "smg.2",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/smg.2.png"
+                    },
+                    {
+                      "name": "rifle.semiauto",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.semiauto.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "tab4",
+          "name": "Авторитет",
+          "groups": [
+            {
+              "prefix": "newavtoritet",
+              "displayName": "Newavtoritet",
+              "kits": [
+                {
+                  "key": "newavtoritet.tea",
+                  "name": "Авторитет Чай",
+                  "cooldown": 28800,
+                  "items": [
+                    {
+                      "name": "oretea.pure",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/oretea.pure.png"
+                    },
+                    {
+                      "name": "woodtea.pure",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/woodtea.pure.png"
+                    },
+                    {
+                      "name": "pie.bear",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/pie.bear.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newavtoritet.tools",
+                  "name": "Авторитет Инструменты",
+                  "cooldown": 28800,
+                  "items": [
+                    {
+                      "name": "lowgradefuel",
+                      "count": 50,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/lowgradefuel.png"
+                    },
+                    {
+                      "name": "chainsaw",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/chainsaw.png"
+                    },
+                    {
+                      "name": "jackhammer",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/jackhammer.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newavtoritet.weapons",
+                  "name": "Авторитет Оружие",
+                  "cooldown": 28800,
+                  "items": [
+                    {
+                      "name": "ammo.pistol",
+                      "count": 128,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.pistol.png"
+                    },
+                    {
+                      "name": "ammo.rifle",
+                      "count": 128,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rifle.png"
+                    },
+                    {
+                      "name": "weapon.mod.lasersight",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.lasersight.png"
+                    },
+                    {
+                      "name": "weapon.mod.lasersight",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.lasersight.png"
+                    },
+                    {
+                      "name": "rifle.sks",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.sks.png"
+                    },
+                    {
+                      "name": "smg.mp5",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/smg.mp5.png"
+                    },
+                    {
+                      "name": "weapon.mod.extendedmags",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.extendedmags.png"
+                    },
+                    {
+                      "name": "weapon.mod.extendedmags",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.extendedmags.png"
+                    },
+                    {
+                      "name": "weapon.mod.holosight",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.holosight.png"
+                    },
+                    {
+                      "name": "weapon.mod.holosight",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.holosight.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newavtoritet.constructions",
+                  "name": "Авторитет Дом",
+                  "cooldown": 172800,
+                  "items": [
+                    {
+                      "name": "advancedblueprintfragment",
+                      "count": 3,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/advancedblueprintfragment.png"
+                    },
+                    {
+                      "name": "workbench2",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/workbench2.png"
+                    },
+                    {
+                      "name": "coffin.storage",
+                      "count": 2,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/coffin.storage.png"
+                    },
+                    {
+                      "name": "bed",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/bed.png"
+                    },
+                    {
+                      "name": "furnace.large",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/furnace.large.png"
+                    },
+                    {
+                      "name": "small.oil.refinery",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/small.oil.refinery.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newavtoritet.res",
+                  "name": "Авторитет Ресурсы",
+                  "cooldown": 86400,
+                  "items": [
+                    {
+                      "name": "scrap",
+                      "count": 200,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/scrap.png"
+                    },
+                    {
+                      "name": "wood",
+                      "count": 5000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/wood.png"
+                    },
+                    {
+                      "name": "wood",
+                      "count": 1000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/wood.png"
+                    },
+                    {
+                      "name": "metal.refined",
+                      "count": 100,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metal.refined.png"
+                    },
+                    {
+                      "name": "cloth",
+                      "count": 750,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/cloth.png"
+                    },
+                    {
+                      "name": "lowgradefuel",
+                      "count": 350,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/lowgradefuel.png"
+                    },
+                    {
+                      "name": "metalpipe",
+                      "count": 15,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalpipe.png"
+                    },
+                    {
+                      "name": "propanetank",
+                      "count": 4,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/propanetank.png"
+                    },
+                    {
+                      "name": "gunpowder",
+                      "count": 1000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/gunpowder.png"
+                    },
+                    {
+                      "name": "charcoal",
+                      "count": 4000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/charcoal.png"
+                    },
+                    {
+                      "name": "sulfur",
+                      "count": 1000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sulfur.png"
+                    },
+                    {
+                      "name": "metal.fragments",
+                      "count": 4000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metal.fragments.png"
+                    },
+                    {
+                      "name": "sheetmetal",
+                      "count": 8,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sheetmetal.png"
+                    },
+                    {
+                      "name": "metalblade",
+                      "count": 10,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalblade.png"
+                    },
+                    {
+                      "name": "roadsigns",
+                      "count": 10,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/roadsigns.png"
+                    },
+                    {
+                      "name": "gears",
+                      "count": 10,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/gears.png"
+                    },
+                    {
+                      "name": "metalspring",
+                      "count": 10,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalspring.png"
+                    },
+                    {
+                      "name": "techparts",
+                      "count": 4,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/techparts.png"
+                    },
+                    {
+                      "name": "tarp",
+                      "count": 10,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/tarp.png"
+                    },
+                    {
+                      "name": "sewingkit",
+                      "count": 15,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sewingkit.png"
+                    },
+                    {
+                      "name": "rope",
+                      "count": 20,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/rope.png"
+                    },
+                    {
+                      "name": "riflebody",
+                      "count": 3,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/riflebody.png"
+                    },
+                    {
+                      "name": "semibody",
+                      "count": 4,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/semibody.png"
+                    },
+                    {
+                      "name": "smgbody",
+                      "count": 6,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/smgbody.png"
+                    },
+                    {
+                      "name": "stones",
+                      "count": 8000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/stones.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newavtoritet.attire",
+                  "name": "Авторитет Броня",
+                  "cooldown": 28800,
+                  "items": [
+                    {
+                      "name": "shoes.boots",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/shoes.boots.png"
+                    },
+                    {
+                      "name": "roadsign.kilt",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/roadsign.kilt.png"
+                    },
+                    {
+                      "name": "coffeecan.helmet",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/coffeecan.helmet.png"
+                    },
+                    {
+                      "name": "hoodie",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/hoodie.png"
+                    },
+                    {
+                      "name": "roadsign.gloves",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/roadsign.gloves.png"
+                    },
+                    {
+                      "name": "pants",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/pants.png"
+                    },
+                    {
+                      "name": "roadsign.jacket",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/roadsign.jacket.png"
+                    },
+                    {
+                      "name": "smallbackpack",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/smallbackpack.png"
+                    },
+                    {
+                      "name": "hazmatsuit",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "tab5",
+          "name": "Батя",
+          "groups": [
+            {
+              "prefix": "newbatya",
+              "displayName": "Newbatya",
+              "kits": [
+                {
+                  "key": "newbatya.tea",
+                  "name": "Батя Чай",
+                  "cooldown": 28800,
+                  "items": [
+                    {
+                      "name": "pie.bear",
+                      "count": 3,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/pie.bear.png"
+                    },
+                    {
+                      "name": "woodtea.pure",
+                      "count": 2,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/woodtea.pure.png"
+                    },
+                    {
+                      "name": "oretea.pure",
+                      "count": 2,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/oretea.pure.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newbatya.tools",
+                  "name": "Батя Инструменты",
+                  "cooldown": 28800,
+                  "items": [
+                    {
+                      "name": "lowgradefuel",
+                      "count": 100,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/lowgradefuel.png"
+                    },
+                    {
+                      "name": "chainsaw",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/chainsaw.png"
+                    },
+                    {
+                      "name": "chainsaw",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/chainsaw.png"
+                    },
+                    {
+                      "name": "jackhammer",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/jackhammer.png"
+                    },
+                    {
+                      "name": "jackhammer",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/jackhammer.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newbatya.weapons",
+                  "name": "Батя Оружие",
+                  "cooldown": 28800,
+                  "items": [
+                    {
+                      "name": "ammo.rifle",
+                      "count": 128,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rifle.png"
+                    },
+                    {
+                      "name": "ammo.pistol",
+                      "count": 128,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.pistol.png"
+                    },
+                    {
+                      "name": "weapon.mod.holosight",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.holosight.png"
+                    },
+                    {
+                      "name": "weapon.mod.holosight",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.holosight.png"
+                    },
+                    {
+                      "name": "smg.mp5",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/smg.mp5.png"
+                    },
+                    {
+                      "name": "rifle.ak",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.ak.png"
+                    },
+                    {
+                      "name": "weapon.mod.extendedmags",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.extendedmags.png"
+                    },
+                    {
+                      "name": "weapon.mod.extendedmags",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.extendedmags.png"
+                    },
+                    {
+                      "name": "weapon.mod.lasersight",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.lasersight.png"
+                    },
+                    {
+                      "name": "weapon.mod.lasersight",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.lasersight.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newbatya.constructions",
+                  "name": "Батя Дом",
+                  "cooldown": 172800,
+                  "items": [
+                    {
+                      "name": "small.oil.refinery",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/small.oil.refinery.png"
+                    },
+                    {
+                      "name": "furnace.large",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/furnace.large.png"
+                    },
+                    {
+                      "name": "bed",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/bed.png"
+                    },
+                    {
+                      "name": "bed",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/bed.png"
+                    },
+                    {
+                      "name": "coffin.storage",
+                      "count": 4,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/coffin.storage.png"
+                    },
+                    {
+                      "name": "supply.signal",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/supply.signal.png"
+                    },
+                    {
+                      "name": "furnace.large",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/furnace.large.png"
+                    },
+                    {
+                      "name": "workbench3",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/workbench3.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newbatya.res",
+                  "name": "Батя Ресурсы",
+                  "cooldown": 86400,
+                  "items": [
+                    {
+                      "name": "smgbody",
+                      "count": 8,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/smgbody.png"
+                    },
+                    {
+                      "name": "semibody",
+                      "count": 6,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/semibody.png"
+                    },
+                    {
+                      "name": "riflebody",
+                      "count": 5,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/riflebody.png"
+                    },
+                    {
+                      "name": "rope",
+                      "count": 30,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/rope.png"
+                    },
+                    {
+                      "name": "sewingkit",
+                      "count": 20,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sewingkit.png"
+                    },
+                    {
+                      "name": "tarp",
+                      "count": 20,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/tarp.png"
+                    },
+                    {
+                      "name": "techparts",
+                      "count": 10,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/techparts.png"
+                    },
+                    {
+                      "name": "metalspring",
+                      "count": 15,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalspring.png"
+                    },
+                    {
+                      "name": "gears",
+                      "count": 20,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/gears.png"
+                    },
+                    {
+                      "name": "roadsigns",
+                      "count": 20,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/roadsigns.png"
+                    },
+                    {
+                      "name": "metalblade",
+                      "count": 15,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalblade.png"
+                    },
+                    {
+                      "name": "sheetmetal",
+                      "count": 10,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sheetmetal.png"
+                    },
+                    {
+                      "name": "metal.fragments",
+                      "count": 5000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metal.fragments.png"
+                    },
+                    {
+                      "name": "sulfur",
+                      "count": 2000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/sulfur.png"
+                    },
+                    {
+                      "name": "charcoal",
+                      "count": 5000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/charcoal.png"
+                    },
+                    {
+                      "name": "gunpowder",
+                      "count": 2000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/gunpowder.png"
+                    },
+                    {
+                      "name": "propanetank",
+                      "count": 6,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/propanetank.png"
+                    },
+                    {
+                      "name": "metalpipe",
+                      "count": 20,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metalpipe.png"
+                    },
+                    {
+                      "name": "scrap",
+                      "count": 500,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/scrap.png"
+                    },
+                    {
+                      "name": "lowgradefuel",
+                      "count": 500,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/lowgradefuel.png"
+                    },
+                    {
+                      "name": "metal.refined",
+                      "count": 150,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metal.refined.png"
+                    },
+                    {
+                      "name": "stones",
+                      "count": 10000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/stones.png"
+                    },
+                    {
+                      "name": "wood",
+                      "count": 8000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/wood.png"
+                    },
+                    {
+                      "name": "cloth",
+                      "count": 1000,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/cloth.png"
+                    }
+                  ]
+                },
+                {
+                  "key": "newbatya.attire",
+                  "name": "Батя Броня",
+                  "cooldown": 28800,
+                  "items": [
+                    {
+                      "name": "tactical.gloves",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/tactical.gloves.png"
+                    },
+                    {
+                      "name": "roadsign.kilt",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/roadsign.kilt.png"
+                    },
+                    {
+                      "name": "hoodie",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/hoodie.png"
+                    },
+                    {
+                      "name": "pants",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/pants.png"
+                    },
+                    {
+                      "name": "shoes.boots",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/shoes.boots.png"
+                    },
+                    {
+                      "name": "metal.facemask",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metal.facemask.png"
+                    },
+                    {
+                      "name": "metal.plate.torso",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/metal.plate.torso.png"
+                    },
+                    {
+                      "name": "largebackpack",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/largebackpack.png"
+                    },
+                    {
+                      "name": "hazmatsuit",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit.png"
+                    },
+                    {
+                      "name": "hazmatsuit",
+                      "count": 1,
+                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2025-10-20T22:34:00.181Z",
+    "totalKits": 21,
+    "version": "1.0.0"
+  }
+}
