@@ -5,40 +5,6 @@
       "name": "BATYA RUST #1 | SemiClassic",
       "tabs": [
         {
-          "id": "tab1",
-          "name": "Стартовые",
-          "groups": [
-            {
-              "prefix": "start",
-              "displayName": "Стартовые",
-              "kits": [
-                {
-                  "key": "",
-                  "name": "start.all",
-                  "cooldown": 0,
-                  "items": [
-                    {
-                      "name": "rock",
-                      "count": 1,
-                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/rock.png"
-                    },
-                    {
-                      "name": "torch",
-                      "count": 1,
-                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/torch.png"
-                    },
-                    {
-                      "name": "cakefiveyear",
-                      "count": 1,
-                      "img": "https://raw.githubusercontent.com/rostov114/rust-items/main/cakefiveyear.png"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "tab2",
           "name": "Браток",
           "groups": [
